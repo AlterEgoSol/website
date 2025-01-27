@@ -67,8 +67,8 @@
 			Train, deploy, and monetize your AI clone. Let it handle tasks while you focus on what matters most.
 		</p>
 		<div class="flex flex-col sm:flex-row gap-4 justify-center">
-			<a href="#" class="button-primary">Try Demo</a>
-			<a href="#" class="button-secondary">Documentation</a>
+			<a href="/demo" class="button-primary">Try Demo</a>
+			<a href="/docs" class="button-secondary">Documentation</a>
 		</div>
 	</div>
 </div>
@@ -186,10 +186,10 @@
 			Experience AlterEgo firsthand or dive deep into our documentation to learn more.
 		</p>
 		<div class="flex flex-col sm:flex-row gap-6 justify-center max-w-lg mx-auto">
-			<a href="#" class="button-primary flex-1 text-center">
+			<a href="/demo" class="button-primary flex-1 text-center">
 				Try Demo
 			</a>
-			<a href="#" class="button-secondary flex-1 text-center">
+			<a href="/docs" class="button-secondary flex-1 text-center">
 				Documentation
 			</a>
 		</div>
