@@ -43,8 +43,7 @@
 					<h4 class="font-medium text-gray-900 mb-4">Connect</h4>
 					<ul class="space-y-2">
 						<li><a href="https://twitter.com" class="text-gray-600 hover:text-primary-600">Twitter</a></li>
-						<li><a href="https://discord.gg" class="text-gray-600 hover:text-primary-600">Discord</a></li>
-						<li><a href="https://github.com" class="text-gray-600 hover:text-primary-600">GitHub</a></li>
+						<li><a href="https://github.com/AlterEgoSol/" class="text-gray-600 hover:text-primary-600">GitHub</a></li>
 					</ul>
 				</div>
 			</div>
